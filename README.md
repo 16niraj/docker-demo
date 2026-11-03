@@ -1,12 +1,13 @@
-#Dockerized C++ adder
+# Dockerized C++ adder
 
-#Build docker image
+
+## Build docker image
 
 ```bash
 docker build -t my-adder .
 ```
 
-#Run
+## Run
 ```bash
 docker run -it my-adder
 ```
